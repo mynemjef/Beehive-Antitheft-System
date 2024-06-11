@@ -18,6 +18,9 @@
 ![Screenshot_2](https://github.com/mynemjef/Beehive-Antitheft-System/assets/61351334/93e0e0a7-209d-4a8c-9454-2911ee2d81ee)
 <p align="center">фиг. 1</p>
 
+## Блокова диаграма на устройството
+![Screenshot_1](https://github.com/mynemjef/Beehive-Antitheft-System/assets/61351334/ea52f55d-5059-4427-948f-cc9a4503c2ad)
+<p align="center">фиг. 2</p>
 
 ## Информация за автора на проекта
 
