@@ -19,7 +19,7 @@ const char apnUser[] = "";
 const char apnPass[] = "";
 
 const char server[] = "your.server.com";
-const char path[] = "/your/api/path";
+const char path[] = "/update";
 
 
 void setup() {
